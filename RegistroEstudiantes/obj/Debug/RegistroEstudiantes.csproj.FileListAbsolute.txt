@@ -1,0 +1,8 @@
+C:\Users\RYZEN\OneDrive\Escritorio\ProgramacionOrientadaAObjetos\PrimeraActividad\RegistroEstudiantes\RegistroEstudiantes\bin\Debug\RegistroEstudiantes.exe.config
+C:\Users\RYZEN\OneDrive\Escritorio\ProgramacionOrientadaAObjetos\PrimeraActividad\RegistroEstudiantes\RegistroEstudiantes\bin\Debug\RegistroEstudiantes.exe
+C:\Users\RYZEN\OneDrive\Escritorio\ProgramacionOrientadaAObjetos\PrimeraActividad\RegistroEstudiantes\RegistroEstudiantes\bin\Debug\RegistroEstudiantes.pdb
+C:\Users\RYZEN\OneDrive\Escritorio\ProgramacionOrientadaAObjetos\PrimeraActividad\RegistroEstudiantes\RegistroEstudiantes\obj\Debug\RegistroEstudiantes.csproj.AssemblyReference.cache
+C:\Users\RYZEN\OneDrive\Escritorio\ProgramacionOrientadaAObjetos\PrimeraActividad\RegistroEstudiantes\RegistroEstudiantes\obj\Debug\RegistroEstudiantes.csproj.SuggestedBindingRedirects.cache
+C:\Users\RYZEN\OneDrive\Escritorio\ProgramacionOrientadaAObjetos\PrimeraActividad\RegistroEstudiantes\RegistroEstudiantes\obj\Debug\RegistroEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\OneDrive\Escritorio\ProgramacionOrientadaAObjetos\PrimeraActividad\RegistroEstudiantes\RegistroEstudiantes\obj\Debug\RegistroEstudiantes.exe
+C:\Users\RYZEN\OneDrive\Escritorio\ProgramacionOrientadaAObjetos\PrimeraActividad\RegistroEstudiantes\RegistroEstudiantes\obj\Debug\RegistroEstudiantes.pdb
